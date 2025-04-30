@@ -18,8 +18,7 @@ a=int(input())
 if a%2==0:
     print("EVEN")
 else:
-    print("ODD")gram
-
+    print("ODD")
 ~~~ 
 ## Output
 ![Screenshot 2025-04-30 102821](https://github.com/user-attachments/assets/2e2cf521-623d-448e-8745-9f7c55841520)
