@@ -11,13 +11,16 @@ To write a Python program to check whether the given number is **even** or **odd
    - Else, print `"ODD"`.
 4. End the program.
 
-## 🧾 Proa=int(input())
+## 🧾 Program
+~~~
+a=int(input())
 
 if a%2==0:
     print("EVEN")
 else:
     print("ODD")gram
-    
+
+~~~ 
 ## Output
 ![Screenshot 2025-04-30 102821](https://github.com/user-attachments/assets/2e2cf521-623d-448e-8745-9f7c55841520)
 
